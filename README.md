@@ -12,11 +12,15 @@
 ---
 
 ## 🛠 Skills & Tools
-- **Programming & Scripting**: Python, Java (Basics), SQL  
-- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Excel  
-- **Databases**: MySQL  
-- **Visualization**: Tableau, Matplotlib  
-- **Other**: Git, GitHub, Data Cleaning, Problem-Solving  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -28,15 +32,22 @@
 ---
 
 ## 📊 GitHub Stats
-![Subikshapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subikshapriya&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subikshapriya&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=subikshapriya&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subikshapriya&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 GitHub Activity Graph
+[![Subikshapriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subikshapriya&theme=tokyo-night)](https://github.com/subikshapriya)
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [linkedin.com/in/subikshapriya](https://www.linkedin.com/in/subikshapriya)  
-- **GitHub**: [github.com/subikshapriya](https://github.com/subikshapriya)  
-- **Email**: subikshas507@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subikshapriya)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subikshapriya)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subikshas507@gmail.com)  
 
 ---
 
-💡 *"Data is the new oil, but it’s useless unless refined into insights."*  
+💡 *"Data is the new oil, but it’s useless unless refined into insights."*
