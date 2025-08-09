@@ -6,8 +6,8 @@
 ## 🚀 About Me
 - 🎓 Currently pursuing my **Master of Computer Applications (MCA)** at Shrimati Indira Gandhi College.  
 - 📍 Based in **Tamil Nadu, India**.  
-- 🌱 Passionate about **data analytics, machine learning, and solving real-world problems** with data.  
-- 🔍 Always curious to learn new technologies and enhance my skills in **Python, SQL, Excel, and visualization tools**.  
+- 🌱 Passionate about **data analytics, visualization, and real-world problem-solving**.  
+- 🔍 Always eager to learn new tools and technologies in **Python, SQL, and data analysis**.  
 
 ---
 
@@ -20,12 +20,10 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **College Chatbot** | A chatbot for answering college-related queries like events, schedules, and faculty info. | Python, NLP |
-| **Next Gen Energy Saver using Ambient** | IoT-based project for optimizing energy usage using environmental data. | Java, IoT, Sensors |
-| **Data Analysis Case Studies** | Exploratory data analysis on real datasets for insights. | Python, Pandas, Matplotlib |
+| **Student Performance Analytics Dashboard** *(Final Year Project)* | Designed and developed a dashboard to analyze student academic performance, identify learning gaps, and provide actionable insights for educators. | Python, Pandas, MySQL, Tableau, Excel |
 
 ---
 
@@ -37,8 +35,8 @@
 ## 📫 Connect With Me
 - **LinkedIn**: [linkedin.com/in/subikshapriya](https://www.linkedin.com/in/subikshapriya)  
 - **GitHub**: [github.com/subikshapriya](https://github.com/subikshapriya)  
-- **Email**: *[Your Email Here]*  
+- **Email**: subikshas507@gmail.com  
 
 ---
 
-💡 *"Data is the new oil, but it’s useless unless refined into insights."*
+💡 *"Data is the new oil, but it’s useless unless refined into insights."*  
